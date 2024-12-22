@@ -4,6 +4,9 @@
 
 배열과 비슷한 역할을 하지만, 메모리의 연속적인 공간을 사용하지 않는다는 점에서 차이가 있음
 
+![image](https://github.com/user-attachments/assets/d4e117a1-d7b5-4720-836b-fab5c42c0563)
+
+
 ## Linked List의 기본 구조
 
 Linked List는 여러 개의 노드(Node)로 구성되며 각 노드는 두 가지 요소를 가짐
