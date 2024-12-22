@@ -4,15 +4,15 @@
 
 배열과 비슷한 역할을 하지만, 메모리의 연속적인 공간을 사용하지 않는다는 점에서 차이가 있음
 
-![image](https://github.com/user-attachments/assets/d4e117a1-d7b5-4720-836b-fab5c42c0563)
-
-
 ## Linked List의 기본 구조
 
 Linked List는 여러 개의 노드(Node)로 구성되며 각 노드는 두 가지 요소를 가짐
 
 1. 데이터(Data): 저장된 값
 2. 포인터(Next): 다음 노드를 가리키는 참조(주소)
+
+![image](https://github.com/user-attachments/assets/d4e117a1-d7b5-4720-836b-fab5c42c0563)
+
 
 ### 장점
 - 동적 크기 조정: 배열과 달리 크기를 미리 설정하지 않아도 됨
